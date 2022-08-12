@@ -1,0 +1,18 @@
+{
+  "name": "demo-slot-pragmatic-play",
+  "main": "./lib/demo-slot-pragmatic-play",
+  "version": "1.0.0",
+  "description": "Situs Lengkap Info Play Demo Slot Pragmatic Play No 1 Di Dunia",
+  "keywords": ["slot online terbaik","slot microgaming","slot online gampang menang","slot online","slot pragmatic play","microgaming","slot online jackpot tertinggi","situs judi slot online","situs judi slot online","slot online terbaik","game slot terbaik"],
+
+  "activationCommands": {
+    "atom-workspace": "demo-slot-pragmatic-play:toggle"
+  },
+  "repository": "https://github.com/slotjago/demo-slot-pragmatic-play",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

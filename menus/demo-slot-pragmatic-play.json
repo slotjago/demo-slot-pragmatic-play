@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle demo-slot-pragmatic-play",
+        "command": "demo-slot-pragmatic-play:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "demo-slot-pragmatic-play",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "demo-slot-pragmatic-play:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
