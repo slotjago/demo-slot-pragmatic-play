@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Ini Daftar Info Play Demo Slot Pragmatic Play Dapat Uang](https://atom.io/packages/demo-slot-pragmatic-play)
-## :8ball: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/) :100: <<< 
-## :arrow_right: klik untuk [Daftar Sekarang](https://agentotoplay.net/register/) :green_heart: <<< 
-## :thumbsup: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/) :100: <<< 
+## :8ball: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/) :100: <<< 
+## :arrow_right: klik untuk [Daftar Sekarang](https://golinkurl.github.io/register/) :green_heart: <<< 
+## :thumbsup: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/) :100: <<< 
 
 ## Informasi Situs /Server Kami : 
 
